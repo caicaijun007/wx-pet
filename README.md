@@ -36,7 +36,7 @@
 
 ![home](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/home.png)
 ![home2](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/home2.png)
-![category](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/category)
+![category](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/category.png)
 ![shopDetail](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/shopDetail.png)
 ![shopDetail2](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/shopDetail2.png)
 ![comment](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/comment.png)
