@@ -1,4 +1,4 @@
-## 微信小程序项目
+## 微信小程序项目（重构中）
 
 ### 萌宠（pet）
 
@@ -34,13 +34,25 @@
 
 作品展示：
 
-![pet-home](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/pet-home.gif)
-![pet-home-grid](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/pet-home-grid.gif)
-![pet-home-tabbar](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/pet-home-tabbar.gif)
-![pet-introduction](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/pet-introduction.gif)
-![pet-shopcar](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/pet-shopcar.gif)
-![pet-profile](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/pet-profile.gif)
-![pet-profile-address](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/pet-profile-address.gif)
+![home](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/home.png)
+![home2](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/home2.png)
+![category](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/category)
+![shopDetail](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/shopDetail.png)
+![shopDetail2](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/shopDetail2.png)
+![comment](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/comment.png)
+![commentList](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/commentList.png)
+![introduction](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/introduction.png)
+![shopcart](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/shopcart.png)
+![placeOrder](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/placeOrder.png)
+![selectAddress](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/selectAddress.png)
+![profile2](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/profile2.png)
+![profile](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/profile.png)
+![editorAddress](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/editorAddress.png)
+![editorAddress2](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/editorAddress2.png)
+![order](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/order.png)
+![orderDetail](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/orderDetail.png)
+![collection](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/collection.png)
+![ercode](https://github.com/caicaijun007/xiaocaicai07.github.io/blob/master/ercode.png)
 
 
 参考文档：
